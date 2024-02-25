@@ -1,0 +1,15 @@
+.header-list {
+    margin-left: auto;
+    margin-right: auto;
+    gap: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header-link {
+    margin-left: 10px;
+}
+
+.hero{
+    background-image: img/Rectangle 48.jpg ;
+}
